@@ -1,3 +1,8 @@
+# Created by SingeStheos
+# Licensed under MIT
+# Distribute verbatim, 
+# including license.
+
 import os
 import requests
 from PIL import Image
